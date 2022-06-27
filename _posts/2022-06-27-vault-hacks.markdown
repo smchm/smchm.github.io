@@ -61,7 +61,7 @@ vault read --format=json /secret/test/smchm | jq '.data += { "testkey": "newvalu
 
 {% endhighlight %}
 
-Now we have the values we want in our JSON object we can write them back the data to the Vault endpoint. However first we can *simulate* the write by performing a dry-run using the Vault flag *--output-curl-string* to make sure everything is as we expect:
+Now we have the values we want in our JSON object we can write them back to our Vault endpoint. However first we can *simulate* the write by performing a dry-run using the Vault flag *--output-curl-string* to make sure everything is as we expect:
 
 {% highlight bash %}
 
