@@ -17,3 +17,9 @@ Post-programming desperation initially led to DevOps/SRE shenanigans with K8s, p
 1. Heat all the ingredients in a pan for about 5 minutes or until the raisins are soft. Stir constantly.
 2. Blend with a hand blender adding hot water until the consistency is acceptable.
 3. Serve (over chips)
+
+#### Mods
+
+- add tumeric to help mimic that toxic yellow glow
+- salt
+- salt
