@@ -4,7 +4,7 @@ title:  "Chip Shop Curry Sauce"
 date:   2026-10-31 21:47:23 +0000
 categories: [beans]
 ---
-Post-programming desperation initially led to DevOps/SRE shenanigans with K8s, pipelines and limited fun. Chips(UK edition) fill the gap, and here's the sauce:
+Post-programming desperation initially led to DevOps/SRE shenanigans with K8s, pipelines and limited fun. Chips (UK edition) fill the gap, and here's the sauce:
 
 ### Ingredients
 
