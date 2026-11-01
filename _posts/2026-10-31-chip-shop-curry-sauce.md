@@ -20,6 +20,6 @@ Post-programming desperation initially led to DevOps/SRE shenanigans with K8s, p
 
 #### Mods
 
-- add tumeric to help mimic that toxic yellow glow
+- add tumeric for that deep yellow glow
 - salt
 - salt
