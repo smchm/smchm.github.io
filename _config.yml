@@ -20,7 +20,7 @@
 
 title:  a bit of bland
 description: >- # this means to ignore newlines until "baseurl:"
-  a blog for the meek
+  blog for the meek
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  smchm
